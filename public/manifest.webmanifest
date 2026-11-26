@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "PlacaSegura — Control vehicular",
+  "short_name": "PlacaSegura",
+  "description": "Control vehicular inteligente y reconocimiento de placas para tu campus.",
+  "lang": "es",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5f7f8",
+  "theme_color": "#102b37",
+  "icons": [
+    {
+      "src": "/icons/placasegura.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/placasegura-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
